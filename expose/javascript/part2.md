@@ -69,3 +69,6 @@ Answer: The result is [2, 4, 6]. modifyArray takes an array and a callback funct
 
 ## Question 18
 Answer: it's in part2-question18.js
+
+## Question 19
+Answer: it will output 1432 because the setTimeout() it will output 1 and 4 first and 3 because the delay time is 0 and then 3.  

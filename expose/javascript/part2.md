@@ -62,4 +62,10 @@ F: true, Boolean(x) where x != 0 is all true
 The difference between == and === is == changes the datatypes and === don't. So, like 14 problem C and D, when using 2=='2' is true because string coverts to a number, but in D === doesn't change the datatype so it is false.
 
 ## Question 16
-Answer: 
+Answer: it's in part2-question16.js
+
+## Question 17
+Answer: The result is [2, 4, 6]. modifyArray takes an array and a callback function which is doSomething which multiplies the element by 2, so the result is [1*2, 2*2, 3*2]
+
+## Question 18
+Answer: it's in part2-question18.js

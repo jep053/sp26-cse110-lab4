@@ -60,3 +60,6 @@ F: true, Boolean(x) where x != 0 is all true
 
 ## Question 15
 The difference between == and === is == changes the datatypes and === don't. So, like 14 problem C and D, when using 2=='2' is true because string coverts to a number, but in D === doesn't change the datatype so it is false.
+
+## Question 16
+Answer: 
